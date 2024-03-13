@@ -190,9 +190,9 @@ if (isset($_POST["sub"])) {
                     <li class="nav-label first">Main Menu</li>
                     <!-- <li><a href="index.html"><i class="icon icon-single-04"></i><span class="nav-text">Dashboard</span></a>
                     </li> -->
-                    <li><a href="index.php">Home</a></li>
-                    <li><a href="admin.php">Admin</a></li>
-                    <li><a href="pengadaan.php">Pengadaan</a></li>
+                    <li><a href="../index.php">Home</a></li>
+                    <li><a href="../admin.php">Admin</a></li>
+                    <li><a href="../pengadaan.php">Pengadaan</a></li>
 
                 </ul>
             </div>
@@ -216,7 +216,7 @@ if (isset($_POST["sub"])) {
                     <div class="col-sm-6 p-md-0 justify-content-sm-end mt-2 mt-sm-0 d-flex">
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
-                            <li class="breadcrumb-item active"><a href="admin.php">Admin</a></li>
+                            <li class="breadcrumb-item active"><a href="../admin.php">Admin</a></li>
                             <li class="breadcrumb-item active"><a href="javascript:void(0)">Buku</a></li>
                         </ol>
                     </div>

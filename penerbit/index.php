@@ -177,10 +177,9 @@ $penerbit = mysqli_query($conn, "SELECT * FROM penerbit");
                     <li class="nav-label first">Main Menu</li>
                     <!-- <li><a href="index.html"><i class="icon icon-single-04"></i><span class="nav-text">Dashboard</span></a>
                     </li> -->
-                    <li><a href="index.php">Home</a></li>
-                    <li><a href="admin.php">Admin</a></li>
-                    <li><a href="pengadaan.php">Pengadaan</a></li>
-
+                    <li><a href="../index.php">Home</a></li>
+                    <li><a href="../admin.php">Admin</a></li>
+                    <li><a href="../pengadaan.php">Pengadaan</a></li>
                 </ul>
             </div>
         </div>
